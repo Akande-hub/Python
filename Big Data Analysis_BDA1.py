@@ -2,11 +2,6 @@
 # coding: utf-8
 
 
-"Well done"
-
-
-# In[1]:
-
 
 import pandas as pd
 from datetime import datetime
